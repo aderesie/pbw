@@ -1,0 +1,36 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 70%;
+    margin: 0 15%;
+}
+
+.card-container {
+    box-shadow: 5px 5px 10px #00000020;
+    border-radius: 15px;
+    width: 100%;
+    padding: 5%;
+}
+
+.card-header {
+    text-align: center;
+}
+
+.input-login {
+    width: 100%;
+    padding: 3px 6px;
+}
+
+.table {
+    width: 100%;
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+
+#update-wrapper {
+    display: none;
+}
